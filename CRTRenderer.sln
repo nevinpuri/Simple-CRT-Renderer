@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRTRenderer", "CRTRenderer\CRTRenderer.csproj", "{5AD1A732-3A2F-4795-A09F-330EEF294DAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AD1A732-3A2F-4795-A09F-330EEF294DAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD1A732-3A2F-4795-A09F-330EEF294DAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD1A732-3A2F-4795-A09F-330EEF294DAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD1A732-3A2F-4795-A09F-330EEF294DAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A266A81-9B18-423B-B9CB-C9CC4A42C187}
+	EndGlobalSection
+EndGlobal
