@@ -1,0 +1,12 @@
+C:\Users\Nevin\source\repos\CRTRenderer\CRTRenderer\bin\Debug\netcoreapp3.1\CRTRenderer.exe
+C:\Users\Nevin\source\repos\CRTRenderer\CRTRenderer\bin\Debug\netcoreapp3.1\CRTRenderer.deps.json
+C:\Users\Nevin\source\repos\CRTRenderer\CRTRenderer\bin\Debug\netcoreapp3.1\CRTRenderer.runtimeconfig.json
+C:\Users\Nevin\source\repos\CRTRenderer\CRTRenderer\bin\Debug\netcoreapp3.1\CRTRenderer.runtimeconfig.dev.json
+C:\Users\Nevin\source\repos\CRTRenderer\CRTRenderer\bin\Debug\netcoreapp3.1\CRTRenderer.dll
+C:\Users\Nevin\source\repos\CRTRenderer\CRTRenderer\bin\Debug\netcoreapp3.1\CRTRenderer.pdb
+C:\Users\Nevin\source\repos\CRTRenderer\CRTRenderer\obj\Debug\netcoreapp3.1\CRTRenderer.csproj.CoreCompileInputs.cache
+C:\Users\Nevin\source\repos\CRTRenderer\CRTRenderer\obj\Debug\netcoreapp3.1\CRTRenderer.AssemblyInfoInputs.cache
+C:\Users\Nevin\source\repos\CRTRenderer\CRTRenderer\obj\Debug\netcoreapp3.1\CRTRenderer.AssemblyInfo.cs
+C:\Users\Nevin\source\repos\CRTRenderer\CRTRenderer\obj\Debug\netcoreapp3.1\CRTRenderer.dll
+C:\Users\Nevin\source\repos\CRTRenderer\CRTRenderer\obj\Debug\netcoreapp3.1\CRTRenderer.pdb
+C:\Users\Nevin\source\repos\CRTRenderer\CRTRenderer\obj\Debug\netcoreapp3.1\CRTRenderer.genruntimeconfig.cache
